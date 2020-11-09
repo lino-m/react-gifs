@@ -1,4 +1,15 @@
-# react-boilerplate
+# Mini Giphy App with React _ From Le Wagon Beginners Course
+
+![Image of App](https://github.com/lino-m/react-gifs/blob/master/Giphy-Clone_with_REACT.png)
+
+## The User can ...
+
+1. Enter a search term 
+2. Receive a list of 10 results
+3. See an updated list of result after ecery change made to query
+4. Select a Gif to be shown in the center
+
+## react-boilerplate
 
 Simple react starter with the following config:
 
