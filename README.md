@@ -9,7 +9,7 @@
 3. See an updated list of result after ecery change made to query
 4. Select a Gif to be shown in the center
 
-## react-boilerplate
+## React Boiler Plate Includes
 
 Simple react starter with the following config:
 
@@ -20,7 +20,7 @@ Simple react starter with the following config:
 - work with `.js` or `.jsx` files
 - main `application.scss` stylesheet is imported in `index.js` as a module to enjoy hot reloading
 
-## Scripts
+## To Locally Deploy the App
 
 To start the local Webpack Dev Server (usually on port `8080`):
 
@@ -28,14 +28,3 @@ To start the local Webpack Dev Server (usually on port `8080`):
 yarn start
 ```
 
-To lint all JavaScript files in the `src` folder:
-
-```bash
-yarn lint
-```
-
-To build and deploy your app to `gh-pages` branch on the GitHub repo:
-
-```bash
-yarn deploy
-```
